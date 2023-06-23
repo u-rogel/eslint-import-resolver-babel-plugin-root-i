@@ -1,4 +1,4 @@
-# eslint-import-resolver-babel-plugin-root-import
+# eslint-import-resolver-babel-plugin-root-i
 
 A [babel-plugin-root-import] resolver for [eslint-plugin-import].
 
@@ -8,7 +8,7 @@ latest version of babel plugin.
 ## Installation
 
 ```sh
-npm install --save-dev eslint-plugin-import eslint-import-resolver-babel-plugin-root-import
+npm install -D eslint-import-resolver-babel-root-import@npm:eslint-import-resolver-babel-plugin-root-i
 ```
 
 ## Usage
